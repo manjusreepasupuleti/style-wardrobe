@@ -1,0 +1,6 @@
+{
+  "name": "SmartStyle - AI Virtual Wardrobe & Fashion Stylist",
+  "description": "SmartStyle is an AI-powered virtual wardrobe and fashion recommendation system featuring multimodal clothing recognition, visual similarity search, and smart outfit styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
